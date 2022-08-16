@@ -53,19 +53,20 @@
 
 <div align="center">
   <center>
-  <h2>Individual project - Dogs</h2><img width="440x" height="300px" src="https://i.ibb.co/8YwCPtk/Screenshot-19.png"  />
+  <h2>Individual project - Dogs - https://danilo-pi-dogs.vercel.app/</h2>
+  <img width="440x" height="300px" src="https://i.ibb.co/8YwCPtk/Screenshot-19.png"  />
   <img width="440px" height="300px" src="https://i.ibb.co/Gcb13SK/Screenshot-20.png"  /></center>
 </div>
 
 <div align="center">
   <center>
-  <h2>Group project - GameHub</h2><img width="440x" height="300px" src="https://i.ibb.co/k937gS3/Screenshot-17.png"  />
+  <h2>Group project - GameHub - https://gamehub-chi.vercel.app/</h2><img width="440x" height="300px" src="https://i.ibb.co/k937gS3/Screenshot-17.png"  />
   <img width="440px" height="300px" src="https://i.ibb.co/4YzQVbB/Screenshot-21.png"  /></center>
 </div>
 
 <div align="center">
   <center>
-  <h2>Quantico Tecnologia</h2><img width="440x" height="300px" src="https://i.ibb.co/2nR6r5x/Screenshot-18.png"  />
+  <h2>Quantico Tecnologia - https://quanticotec.com</h2><img width="440x" height="300px" src="https://i.ibb.co/2nR6r5x/Screenshot-18.png"  />
   <img width="440px" height="300px" src="https://i.ibb.co/RzDTKkM/Screenshot-22.png"  /></center>
 </div>
 
