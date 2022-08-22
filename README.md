@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">I am a Full Stack developer recently graduated from the bootcamp I am Henry and from the Educational Corporation Without Borders, the latter as a Systems Analysis and Programming technician, I consider myself a hardworking person who loves to get the best out of each experience and learn as much as possible.<br><br>I have knowledge in JavaScript, React, Redux, NodeJS, Express MongoDB, Mongoose, PostgreSQL, Sequelize, HTML, CSS, among other technologies...</h3>
+<h3 align="center">I am a Full Stack developer recently graduated from the bootcamp. I am Henry and from the Corporación Educativa Sin Fronteras, the latter as a Systems Analysis and Programming technician. I consider myself a hard-working person who loves to get the best out of each experience and get the most knowledge out of it.<br><br>I have knowledge in JavaScript, React, Redux, NodeJS, Express MongoDB, Mongoose, PostgreSQL, Sequelize, HTML, CSS, among other technologies...</h3>
 
 ###
 
