@@ -65,13 +65,6 @@
   </center>
 </div>
 
-<div align="center">
-  <center>
-  <h2>Quantico Tecnologia - https://quanticotec.com</h2>
-  <img width="440x" height="300px" src="https://i.ibb.co/2nR6r5x/Screenshot-18.png"  />
-  </center>
-</div>
-
 ###
 <br clear="both">
 <h2 align="center">Contact me</h2>
